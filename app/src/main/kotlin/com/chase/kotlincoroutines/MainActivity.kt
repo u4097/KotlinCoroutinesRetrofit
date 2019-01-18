@@ -3,6 +3,7 @@ package com.chase.kotlincoroutines
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v7.widget.LinearLayoutManager
+import android.util.Log
 import com.chase.kotlincoroutines.adapters.PostAdapter
 import com.chase.kotlincoroutines.model.Post
 import com.chase.kotlincoroutines.network.RetrofitFactory
